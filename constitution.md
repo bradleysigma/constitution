@@ -158,9 +158,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 9.7 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting.
 
-9.8 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
-
-9.9 The only right of appeal against a member's removal from the Management Committee under this section is via the Clubs and Societies Committee.
+9.8 The only right of appeal against a member's removal from the Management Committee under this section is via the Clubs and Societies Committee.
  
 
 ## 10 Vacancies on Management Committee
